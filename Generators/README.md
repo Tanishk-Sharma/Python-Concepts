@@ -18,3 +18,11 @@ The function stops at this line and while resume from here only when called agai
 This is how yield differs from return keyword - return will completely exit from the function, while yield marks a point to resume from when function gets called again.
 
 The iter() and next() dunder methods, as well as raising of StopIteration Error are automatically added to the function when yield is mentioned
+
+## Generator expression / Generator objects:
+### A generator expression, is very similar to list comprehension syntax, just that instead of square brackets [], we have parenthesis ().
+
+### A Generator object is an iterator, whose values are created at the time of accessing them.
+
+Eexample - 
+generator_obj_example = (num for num in range(10)); print(next(generator_obj_example))
