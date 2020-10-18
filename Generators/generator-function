@@ -2,8 +2,16 @@ def my_generator_function():
   for num in range(10):
     yield num
 
-# We know that generator is an iterator, so we can traverse it like this:
-for ele in my_generator_function():
-    print(ele)
-
+my_gen_obj = my_generator_function()
+# We know that generator is an iterator, so we can traverse it with the next() method:
+print(next(my_gen_obj)) # ---> 0
+print(next(my_gen_obj)) # ---> 1
+print(next(my_gen_obj)) # ---> 2
+print(next(my_gen_obj)) # ---> 3
+print(next(my_gen_obj)) # ---> 4
+print(next(my_gen_obj)) # ---> 5
+print(next(my_gen_obj)) # ---> 6
+print(next(my_gen_obj)) # ---> 7
+print(next(my_gen_obj)) # ---> 8
+print(next(my_gen_obj)) # ---> 9
 
