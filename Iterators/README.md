@@ -16,5 +16,5 @@
 
 ## Under the hood
 
-Under the hood, the iterator object simply accesses the '<b>_ _iter_ _()</b>' and '<b>_ _next_ _()</b>' method defined inside the class and raises a StopIteration when there are no values to be returned.
-We can also create our own class implementing the '<b>_ _iter_ _()</b>' and '<b>_ _next_ _()</b>' methods and can access its elements using an iterator object!
+Under the hood, the iterator object simply accesses the dunder methods '<b>iter()</b>' and '<b>next()</b>' defined inside the class and raises a StopIteration when there are no values to be returned.
+We can also create our own class implementing the dunder methods '<b>iter()</b>' and '<b>next()</b>' and can access its elements using an iterator object!
