@@ -19,6 +19,9 @@ This is how yield differs from return keyword - return will completely exit from
 
 The iter() and next() dunder methods, as well as raising of StopIteration Error are automatically added to the function when yield is mentioned
 
+### Program Output:
+<img src="https://user-images.githubusercontent.com/32167236/96371398-330de700-117f-11eb-9ae0-367860ea16a3.png">
+
 ## Generator expression / Generator objects:
 ### A generator expression, is very similar to list comprehension syntax, just that instead of square brackets [], we have parenthesis ().
 
