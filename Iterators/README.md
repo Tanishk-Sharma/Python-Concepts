@@ -1,6 +1,9 @@
 # Iterators
 
 ### Iterators are used to traverse or 'iterate' through a collection in Python.
+We can create an iterator object using the iter keyword on the collection.
+For example, 
+my_iterator__obj = iter(my_list)
 
 ### Collections in Python:
 * Lists
