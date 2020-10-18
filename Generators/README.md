@@ -24,5 +24,6 @@ The iter() and next() dunder methods, as well as raising of StopIteration Error 
 
 ### A generator object is an iterator, whose values are created at the time of accessing them.
 
-Eexample - 
-generator_obj_example = (num for num in range(10)); print(next(generator_obj_example))
+Example - 
+generator_obj_example = (num for num in range(10))
+print(next(generator_obj_example))
