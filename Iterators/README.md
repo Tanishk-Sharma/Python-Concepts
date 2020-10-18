@@ -1,6 +1,6 @@
 # Iterators
 
-### Iterators are used to travers/'iterate' through a collection in Python.
+### Iterators are used to traverse or 'iterate' through a collection in Python.
 
 ### Collections in Python:
 * Lists
