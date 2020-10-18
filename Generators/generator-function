@@ -1,1 +1,9 @@
+def my_generator_function():
+  for num in range(10):
+    yield num
+
+# We know that generator is an iterator, so we can traverse it like this:
+for ele in my_generator_function():
+    print(ele)
+
 
