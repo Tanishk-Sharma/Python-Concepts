@@ -1,0 +1,3 @@
+Hi there,
+this is some default text
+lets see if the program can read it
