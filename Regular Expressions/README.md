@@ -28,7 +28,7 @@ re to the rescue.
 
 In our program here, we have made an algebraic way, or a rule-based way to represent a typical email address like:
 
-r'[a-zA-Z0-9]+@[a-zA-Z0-9]+.[a-zA-Z0-9]{3}'
+<b>r'[a-zA-Z0-9]+@[a-zA-Z0-9]+.[a-zA-Z0-9]{3}'</b>
 
 Let's break it down:
 * [a-zA-Z0-9]+ : any letter - lowercase or uppercase or a number, 1 or more in number (the '+' sign).
