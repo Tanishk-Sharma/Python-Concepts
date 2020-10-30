@@ -18,18 +18,18 @@ Various concepts in python explored are:
 
 * Regular Expressions
 
-* Connecting to Database
+* Connecting to Database [TODO]
 
-* Higher Order Functions and Closures
+* Higher Order Functions and Closures [TODO]
 
-* Decorators
+* Decorators [TODO]
 
-* Descriptors / Properties
+* Descriptors / Properties [TODO]
 
-* Class methods vs. Static methods
+* Class methods vs. Static methods [TODO]
 
-* Abstract Classes
-
-* Context Managers
-
-* Coroutines
+* Abstract Classes [TODO]
+ 
+* Context Managers [TODO]
+ 
+* Coroutines [TODO]
