@@ -17,3 +17,10 @@ Various concepts in python explored are:
 * List Comprehension
 
 * Regular Expressions
+
+TODO:
+
+* Connecting to Database
+
+* Higher Order Functions and Closures
+
