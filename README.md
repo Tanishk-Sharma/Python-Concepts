@@ -18,9 +18,11 @@ Various concepts in python explored are:
 
 * Regular Expressions
 
-TODO:
-
 * Connecting to Database
 
 * Higher Order Functions and Closures
+
+* Decorators
+
+* Descriptors / Properties
 
