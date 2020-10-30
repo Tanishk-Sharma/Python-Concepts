@@ -26,3 +26,10 @@ Various concepts in python explored are:
 
 * Descriptors / Properties
 
+* Class methods vs. Static methods
+
+* Abstract Classes
+
+* Context Managers
+
+* Coroutines
