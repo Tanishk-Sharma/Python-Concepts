@@ -1,6 +1,6 @@
 # Python-Concepts
 
-Python is powerful and helps us solve many Business problems.
+Python is powerful and helps us solve many complex problems in a simple way.
 
 But to harness all the Python has to offer, we must be aware of concepts in Python.
 
